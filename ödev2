@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hikmet AYTUN</title>
+    </head>
+    <body>
+        <!--Başlık-->
+    <h1>Hikmet AYTUN</h1>
+        <!--Alt Başlık-->
+    <h2>Hakkımda</h2>
+        <!--Paragraf ve Açıklama-->
+    <p>Merhaba! Ben Hikmet Aytun, 19 Ağustos 1995 doğumluyum. 
+        Hayat yolculuğuma Manisa Celal Bayar Üniversitesi’nde İnşaat Teknolojisi 
+        okuyarak başladım ve mezun oldum. Mezuniyet sonrası kafamda 
+        tek bir soru vardı: “Dünyayı mı inşa edeceğim, yoksa kariyerimi mi?” 
+        Şanslıyım ki ikisini de denemek nasip oldu.😎</p>
+    <h2>İlgi Alanlarım</h2>
+        <ol>
+            <strong>
+                <li><u>Film</u>
+                    <ul>
+                        <li><a href="https://www.imdb.com/title/tt0068646/?ref_=nv_sr_srsg_0">The Godfather</a></li>
+                        <li><a href="https://www.imdb.com/title/tt0468569/?ref_=tt_sims_tt_t_5">The Dark Knight</a></li>
+                        <li><a href="https://www.imdb.com/title/tt1375666/?ref_=tt_sims_tt_i_4">Inception</a></li>
+                    </ul>
+                </li>
+                <li><u>Dizi</u>
+                    <ul>
+                        <li><a href="https://www.imdb.com/title/tt0455275/?ref_=nv_sr_srsg_0">Prison Break</a></li>
+                        <li><a href="https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_0">Breaking Bad</a></li>
+                        <li><a href="https://www.imdb.com/title/tt7366338/?ref_=tt_sims_tt_i_3">Chernobyl</a></li>
+                    </ul>
+                </li>
+                <li><u>Kitap</u>
+                    <ul>
+                        <li><a href="https://www.amazon.com.tr/Savaş-ve-Barış-2-Cilt/dp/6053329002/ref=sr_1_1?crid=22HQIYI4UOCQP&keywords=savaş+ve+barış&qid=1651618540&sprefix=savaş+ve+barış%2Caps%2C173&sr=8-1">Savaş ve Barış</a> </li>
+                        <li><a href="https://www.amazon.com.tr/1984-George-Orwell/dp/9750718534/ref=sr_1_1?__mk_tr_TR=ÅMÅŽÕÑ&crid=2XZJD2NAPNNFC&keywords=1984&qid=1651618590&sprefix=1984%2Caps%2C160&sr=8-1">1984</a></li>
+                        <li><a href="https://www.amazon.com.tr/İki-Şehrin-Hikayesi-Charles-Dickens/dp/9750738861/ref=pd_sim_sccl_2_73/262-9549485-1707601?pd_rd_w=y6f0c&pf_rd_p=9bff006a-251c-4a5d-abce-05ab3208a394&pf_rd_r=G36K792D4B2Z8JT90WS3&pd_rd_r=bcedc3e6-d408-4ed9-8291-77acd4b38bfe&pd_rd_wg=bMDrP&pd_rd_i=9750738861&psc=1">İki Şehrin Hikayesi</a></li>
+                    </ul>
+                </li>
+            </strong>
+        </ol>
+        <br><br>
+    <h3>Sevdiğim Diziler:</h3>  
+        <a href="https://en.wikipedia.org/wiki/Mr._Robot" target="_blank">Mr.Robot</a>
+        <br><br>
+        <img src="images.jpeg" alt="Mr.Robot" title="Mr.Robot" width="200px" height="250px">
+        <p><em>Mr. Robot , Sam Esmail tarafından USA Network içinyaratılanbir Amerikan drama-gerilim televizyon dizisidir.</em></p>
+    </body>
+</html>
